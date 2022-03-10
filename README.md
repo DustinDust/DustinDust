@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ## I'm currently a fulltime student with a dream of becoming a Web developer one day.
 
 - 🌱 I’m currently learning computer engineering (but i want to become a webdev, yes) 🤣
-- 👯 I’m looking to collaborate with everyone who wants to share the passion with me
-- 🥅 2022 Goals: Maybe an internship and make more personal project with all the technologies I'm fond of?
-- ⚡ Fun fact: I love to eat and sleep
+- 👯 I’m looking to collaborate with everyone who wants to share the passion with me.
+- 🥅 2022 Goals: An internship and making more personal projects with all the technologies I'm fond of.
+- ⚡ Fun fact: I love animation, drawing and music. Why am i doing all this technical stuff I wonder...
 
 ### Languages and Tools:
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][mgdb]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" style="padding-right:10px;" />][pg]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="padding-right:10px;" />][git]
 [<img align="left" alt="Tailwind" width="26px" src="https://www.pngrepo.com/png/306831/180/tailwindcss.png" style="padding-right:10px;" />][tailwind]
 
 <br />
