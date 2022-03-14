@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## I'm currently a fulltime student with a dream of becoming a Web developer one day.
 
-- 🌱 I’m currently learning computer engineering (but i want to become a webdev, yes) 🤣
+- 🌱 I’m currently studying computer engineering (but i want to become a webdev, yes) 🤣
 - 👯 I’m looking to collaborate with everyone who wants to share the passion with me.
 - 🥅 2022 Goals: An internship and making more personal projects with all the technologies I'm fond of.
 - ⚡ Fun fact: I love animation, drawing and music. Why am i doing all this technical stuff I wonder...
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Tailwind" width="26px" src="https://www.pngrepo.com/png/306831/180/tailwindcss.png" style="padding-right:10px;" />][tailwind]
 
 <br />
-Some i dont find a good enough pictures:
+Some other that i dont find a good enough picture (or maybe im just lazy):
 - Mongoose
 - Vitejs
 - Webpack
