@@ -16,12 +16,17 @@ Here are some ideas to get you started:
 -->
 ##
 
-# Hi, I'm Dustin.
+# Hi, I'm Dustin
 
-## I'm a student and I'm studying Computer Engineer.
+## About me
+I am a junior software developer who loves to try out new technologies. I also do digital art (just a little bit).
 
-- I like music.
-- I like art.
-- I love exploring new tools and technologies.
+My current goals are:
+- Improve my skills and deepend my knowledge in software development, especially in system design and architecture.
+- Learn more about cloud-everyting
+- Get better proficiency at golang (my current favourite language)
+- Draw more.
+
+
 
 
